@@ -9,3 +9,16 @@ table.iksweb tr:hover td{color:#354251;cursor:default;}
 .snake {
     background-color: green;
 }
+.blue {
+    background-color: #3771a1;
+}
+.yellow {
+    background-color: #ffd242;
+}
+.worm {
+    background-color: #b78a84;
+}
+.cripper {
+    background-image: url(https://i.pinimg.com/originals/4c/f5/d0/4cf5d0537a72100a7c4e36a81d943225.jpg);
+    background-size: 100%;
+}
